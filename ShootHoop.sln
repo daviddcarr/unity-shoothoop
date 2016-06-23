@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D5DAAD6D-42FA-F156-78AA-BDA591038D8A}") = "ShootHoop", "Assembly-CSharp.csproj", "{1C86AA7A-B8D2-09FD-9671-34E5FE9FE558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C86AA7A-B8D2-09FD-9671-34E5FE9FE558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C86AA7A-B8D2-09FD-9671-34E5FE9FE558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C86AA7A-B8D2-09FD-9671-34E5FE9FE558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C86AA7A-B8D2-09FD-9671-34E5FE9FE558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
