@@ -13,7 +13,11 @@ public class BallLauncher : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetButtonDown ("Fire1")) {
+		//if (Input.GetButtonDown ("Fire1")) {
+		//	InstantiateBall (ballSpeed);
+		//}
+
+		if (Input.GetKeyDown (KeyCode.Space)) {
 			InstantiateBall (ballSpeed);
 		}
 

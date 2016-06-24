@@ -3,11 +3,11 @@ using System.Collections;
 
 public class ScoreKeeper : MonoBehaviour {
 
-	int score = 0;
+	public int score = 0;
 
 	// Use this for initialization
 	void Start () {
-	
+		DontDestroyOnLoad (gameObject);
 	}
 	
 	// Update is called once per frame
